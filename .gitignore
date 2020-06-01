@@ -1,0 +1,14 @@
+.DS_Store
+/node_modules
+/coverage
+/dist
+
+############
+## Windows
+############
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
